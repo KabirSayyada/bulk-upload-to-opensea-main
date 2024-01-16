@@ -2,25 +2,13 @@
 
 # bulk-upload-to-opensea
 A cross platform python IDE implementing selenium 4<BR>
-If you want to support this project or me, please check out my NFTs <BR>
-https://opensea.io/collection/fortune-cat-neko and wish give it a little love or grab it.<BR>
-Thank you.
 
-  Tutorial video v1.0<BR>
-  https://www.youtube.com/watch?v=yEowEDfTSpA<BR>
-  ~ or ~<BR>
-  Easy step by step<BR>
-  https://www.youtube.com/watch?v=j0WguSodGf8<BR>
+  
   Bulk upload to opensea - Buster: Captcha Solver<BR>
   https://www.youtube.com/watch?v=6IoyczfQxtg<BR>
-  
-
-# Pay Service
-  Why need to pay? I realise some user are over requested additional feature or addon over the limitation.
-  if you are really need additional function for this bulk upload please contact my twitter @klvntss and the charge will by project basis. https://www.fiverr.com/kelvintss
 
 # Disclaimer
-  This free version script are not collect or capture any information while it running.
+  This free version script does not collect or capture any information while it's running.
   Make sure you are understand the all coding and process before running, please read line by line the original code before start running.
   We will not be liable for any losses and/or damages for using of our script. Use at your own risk.
   
