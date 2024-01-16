@@ -115,13 +115,3 @@ Thank you.
      
 # Message for a MacOS user
 Currently this script only tested in Windows 7. Not compatible for MacOS
-
-# Contact me
-If you have any questions or want to get in contact you can find me on twitter by searching @klvntss
-
-# Thanks
-Please share and leave your star star<BR>
-If you found it useful, buy me a coffee( i like coffee :), <BR>
-Paypal: https://paypal.me/klvntss<BR>
-Ethereum address: <B>0xd5146965809e4286e24dcf2bfbf58c3840d433a2</b><BR>
-Thank you very much </p>
